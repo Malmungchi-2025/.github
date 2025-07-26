@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Malmungchi-2025/.github/blob/main/profile/malmungchi_logo_512.png" width="120" />
-</p>
+
 
 <h1 align="center">📚 Malmungchi</h1>
 <p align="center">AI 학습 & 퀴즈 앱 프로젝트</p>
