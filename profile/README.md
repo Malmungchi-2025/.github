@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Malmungchi-2025/.github/blob/main/profile/malmungchi_logo.png" width="120" />
+  <img src="https://github.com/Malmungchi-2025/.github/blob/main/profile/malmungchi_logo_512.png" width="120" />
 </p>
 
 <h1 align="center">📚 Malmungchi</h1>
