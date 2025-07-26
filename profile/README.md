@@ -21,7 +21,7 @@
 <a href="https://github.com/Malmungchi-2025/malmungchi-server">
 <img src="https://img.shields.io/badge/Server-FF9900?style=for-the-badge&logo=spring&logoColor=white" width="120"><br/>
 <b>☁️ Server</b><br/>
-Spring Boot 기반 서버 프로젝트
+Node.js 기반 서버 프로젝트
 </a>
 </td>
 <td align="center" width="33%">
